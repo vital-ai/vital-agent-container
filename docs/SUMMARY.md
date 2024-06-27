@@ -1,3 +1,18 @@
 # Table of contents
 
 * [AgentContainer](README.md)
+* [Use of AIMP](use-of-aimp.md)
+* [REST API](rest-api.md)
+* [Websocket API](websocket-api.md)
+* [Docker](docker.md)
+* [Kubernetes](kubernetes.md)
+* [Python Deployment](python-deployment/README.md)
+  * [KGraphService](python-deployment/kgraphservice.md)
+  * [KGraphMemory](python-deployment/kgraphmemory.md)
+  * [Agent Resource API](python-deployment/agent-resource-api.md)
+  * [Agent KG Utils](python-deployment/agent-kg-utils.md)
+  * [KGraphAgent](python-deployment/kgraphagent.md)
+  * [KGraphGen](python-deployment/kgraphgen.md)
+* [Chat.ai Deployment](chat.ai-deployment.md)
+* [Streamlit Test UI](streamlit-test-ui.md)
+* [Evaluation Utilities](evaluation-utilities.md)
